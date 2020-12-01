@@ -1,5 +1,5 @@
-# All In One Scrivener Template Readme
-All-In-One Scrivener Template
+# All In One Template Readme
+All-In-One Template
 
 ## Disclaimer 
 It goes without saying that without the brilliant minds behind these works, this Scrivener template wouldn’t be possible. I also have taken the liberty of adding some of my own tricks and tips for helping you use this template. 
