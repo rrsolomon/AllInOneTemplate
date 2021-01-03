@@ -18,6 +18,12 @@ Mind you, you can also click on entire categories, and it will generate based of
 
 You can begin by simply filling-in-the-blank with the information that you desire. Of course, these portions of the templates can have Scrivener Links embedded in them for faster navigation.
 
+## Campfire Pro Documents
+Campire Pro Templates that you can use on your world building adventure! 
+
+## Trillium Template
+This version is designed for the open-source note taking application in mind.
+
 ## Word Documents
 To use these, all you really have to do is export the “aio-msdocuments.zip” file into the “Custom Office Templates” folder that is located in your documents folder, should you be on Windows. From there, you simply open up Word or Excel and then click on the “Personal” templates tab, and the documents will populate there. From here, you can pick your desired template, e.g. Character 1, and then begin populating and saving documents as you please. It’s that simple.
 
