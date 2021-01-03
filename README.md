@@ -1,4 +1,4 @@
-![All-In-One Writing Template](https://github.com/rrsolomon/All-In-One-Template/blob/main/Assests/All%20In%20One%20Templates.png)
+![All-In-One Writing Template](https://github.com/rrsolomon/All-In-One-Template/blob/main/Photos/All%20In%20One%20Templates.png)
 
 # Disclaimer
 It goes without saying that without the brilliant minds behind these works, this Scrivener template wouldn’t be possible. I also have taken the liberty of adding some of my own tricks and tips for helping you use this template.
