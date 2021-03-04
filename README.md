@@ -8,7 +8,7 @@ Along with the Scrivener template, you’ll also be getting Word, Excel template
 
 # How to Use this Template
 ## Scrivener Template
-Using this template is rather easy. Most of the templates I’ve put together are fill-in-the blank, courtesy of World Anvil, so all you’d really have to do is select the folder that you want to work in, then locate the green plus button, and click on the drop-down arrow. This will reveal a small menu, then hover your mouse over the template category that you wish to use, then find the template that you wish to use and click on it.
+Using this template is rather easy. Most of the templates I’ve put together are fill-in-the blank, based off the World Anvil, so all you’d really have to do is select the folder that you want to work in, then locate the green plus button, and click on the drop-down arrow. This will reveal a small menu, then hover your mouse over the template category that you wish to use, then find the template that you wish to use and click on it.
 
 Mind you, you can also click on entire categories, and it will generate based off of what is included in that folder. This is especially useful when you want to generate specific file structures, for example, the 3 Act, 9 Block, 27 Chapters File Structure template. Unfortunately, Scrivener doesn’t have a way to automatically select your generated template and rename them on the spot. Hopefully this will be addressed in the upcoming Scrivener 3.
 
