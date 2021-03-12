@@ -12,7 +12,7 @@ Need just a specific template, just download them from here!
 | - | - | - |
 | Scrivener | Download Page | In Progress | 
 | Campfire Pro | Download Page | In Progress |
-| Trillium | Download Page | In Progress |
+| Obsidian | Download Page | In Progress |
 | Markdown | Download Page | In Progress |
 | MS World | Download Page | In Progress |
 | MS Excel | Download Page| In Progress |
