@@ -7,7 +7,7 @@ _It goes without saying that without the brilliant minds behind these works, thi
 Along with the Scrivener template, you’ll also be getting Word, Excel templates for you to use. You will also receive an All-In-One Template Codex should you use the Office templates that are provided for ease of use. The All-In-One Template Codex is included in the Codex folder of this template. The Codex will contain files that explain to use a certain template. It will give you examples of different types of things, and go further into information about certain topics should you need the explanation. I do plan to make filled-out templates, so you can have a better idea of how to use them, and then interpret the data for your benefit.
 
 ## Current Templates
-Need just a specific template, just download them from here!
+Need just a specific template, just download them from here! Each template can be download with, or without the All-In-One Writing Template Codex. There is also two versions of the AIO Templates. There is a chart version, and a simple list-like fill-in-the-blank version.
 | Format Supported | Download Page | Read More |
 | - | - | - |
 | Scrivener | Download Page | In Progress | 
