@@ -11,7 +11,8 @@ Need just a specific template, just download them from here! Each template can b
 
 | Format Supported | Download Page | Read More |
 | - | - | - |
-| Scrivener | Download | In Progress | 
+| Scrivener | Download | In Progress |
+| Scrivener (Without Codex) | [Download](https://github.com/rrsolomon/All-In-One-Template/releases/tag/Scrivener_1.0) | An all in one template put together for the popular writing software, Scrivener! | 
 | Campfire Pro | Download | In Progress |
 | Obsidian Vault | Download | In Progress |
 | Markdown | Download | In Progress |
