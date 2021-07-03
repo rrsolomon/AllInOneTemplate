@@ -8,14 +8,14 @@ Along with the Scrivener template, you’ll also be getting Word, Excel template
 
 ## Current Templates
 Need just a specific template, just download them from here! Each template can be download with, or without the All-In-One Writing Template Codex. There is also two versions of the AIO Templates. There is a chart version, and a simple list-like fill-in-the-blank version.
+
 | Format Supported | Download Page | Read More |
 | - | - | - |
-| Scrivener | Download Page | In Progress | 
-| Campfire Pro | Download Page | In Progress |
-| Obsidian | Download Page | In Progress |
-| Markdown | Download Page | In Progress |
-| MS World | Download Page | In Progress |
-| MS Excel | Download Page| In Progress |
+| Scrivener | Download | In Progress | 
+| Campfire Pro | Download | In Progress |
+| Obsidian Vault | Download | In Progress |
+| Markdown | Download | In Progress |
+| RTF | Download | In Progress |
 
 # Learn More
 Make sure to check out the [wiki](https://github.com/rrsolomon/All-In-One-Template/wiki) for this page, or check out the various locations that I've published this to learn about each of the provided templates.
